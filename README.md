@@ -80,8 +80,10 @@ site works well on smartphones, tablets, and desktops.
 
 **OUTPUT SCREENSHOTS**
 
-![Image](https://github.com/user-attachments/assets/c0a5a723-bc2d-4eea-a9e2-326091aa7504)
 ![Image](https://github.com/user-attachments/assets/d7a41261-735f-47f2-a908-134a784be175)
-![Image](https://github.com/user-attachments/assets/cd1eac69-dba2-4516-a901-97d5bad569cd)
 ![Image](https://github.com/user-attachments/assets/8de42192-06ba-4014-885f-37db6062a0b3)
+![Image](https://github.com/user-attachments/assets/c0a5a723-bc2d-4eea-a9e2-326091aa7504)
+![Image](https://github.com/user-attachments/assets/cd1eac69-dba2-4516-a901-97d5bad569cd)
+![Image](https://github.com/user-attachments/assets/17dbf7a8-e529-4431-b53d-4c0ebdd0e8d7)
+![Image](https://github.com/user-attachments/assets/22d0c670-8403-474b-ad57-9a2f4aabe3cf)
 
