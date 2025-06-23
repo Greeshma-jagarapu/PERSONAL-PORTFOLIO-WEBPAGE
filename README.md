@@ -12,6 +12,10 @@ DURATION: 4 WEEKS
 
 MENTOR: NEELA SANTOSH
 
+**IDE USED**
+
+I have used Visual Studio Code (VS code) to develop this portfolio.
+
 **Description**
 
 This is a personal portfolio webpage developed using HTML and CSS as part of an academic/web development task. It 
@@ -77,6 +81,45 @@ This project helped reinforce my understanding of:
 The webpage is responsive and adjusts its layout for different screen sizes. I used CSS media queries to ensure the 
 
 site works well on smartphones, tablets, and desktops.
+
+**Uses:**
+
+Creating a portfolio website is not just about showcasing work—it's a valuable tool with many practical benefits. Here are the main uses of this project:
+
+# 1. Showcase Your Skills and Projects
+This portfolio allows you to present your web development skills, technologies you’ve worked with, and the projects you’ve built. It serves as a visual resume 
+
+that highlights what you can do.
+
+# 2. Impress Recruiters and Hiring Managers
+
+A well-designed portfolio makes a strong first impression. It helps potential employers or internship providers quickly understand your capabilities and 
+
+creativity without needing to ask for your resume or GitHub profile.
+
+# 3. Create a Professional Online Presence
+
+Your portfolio acts as your personal brand on the web. It builds credibility and allows people to find you through search engines, increasing your visibility in
+
+the tech community.
+
+# 4. Demonstrate Frontend Development Skills
+
+Building a portfolio website using HTML and CSS shows your ability to structure content semantically, apply styling effectively, and create responsive designs.
+
+# 5. Useful During Interviews
+
+Interviewers often ask for examples of your work. You can directly share your portfolio link to demonstrate your design sense, code organization, and the 
+
+variety of projects you’ve worked on.
+
+# 6. Practice Real-World Web Development
+
+This project helps you understand:
+
+- Page layout and structure using HTML
+
+- Styling and responsiveness using CSS
 
 **OUTPUT SCREENSHOTS**
 
